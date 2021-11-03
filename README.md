@@ -2,7 +2,7 @@
 Improve Performance In PC.
 
 # Requirements
-1. This application requires the version of [Python Programming Language](python.org)  <= 3.*
+1. This application requires the version of [Python Programming Language](https://www.python.org/)  <= 3.*
 2. This application works only on Windows 10 version <= 2004.
 
 # Tests
